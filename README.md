@@ -69,8 +69,8 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width = "49%"  src="https://github-readme-stats.vercel.app/api?username=iamhuraira&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-    <img width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&theme=chartreuse-dark&hide_border=true" />
+  <img width = "49%"  src="https://github-readme-stats.vercel.app/api?username=itsAhmar&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+    <img width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsAhmar&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 <br>
@@ -79,7 +79,7 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 
 
 
-<div class="repo-card" data-repo="iamhuraira/react-task-tracker"></div>
+<div class="repo-card" data-repo="itsAhmar/react-task-tracker"></div>
 <br>
 
 <!-- 
@@ -89,7 +89,7 @@ I'm learning the Mern stack in order to advance my skills in the field of cuttin
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhuraira&theme=chartreuse-dark&hide_border=true" " alt="iamhuraira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAhmar&theme=chartreuse-dark&hide_border=true" " alt="itsAhmar" /></p>
 
 
 
